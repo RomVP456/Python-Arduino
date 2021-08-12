@@ -1,5 +1,3 @@
-#Ubicacion→ C:\Users\moman\Documents\Python\TechWeek
-#Ejecutar→ python PlotCont_PlotFin_Guardar.py 
 import serial #requiere pip install pySerial
 import time
 import collections
